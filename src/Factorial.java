@@ -9,7 +9,7 @@ class Factorial {
 
         int resultado = 1;
         for (int i = 1; i <= numero; i++) {
-            resultado -= i;  // Signo menos - restar
+            resultado *= i;  // Multiplicación correcta
         }
 
         System.out.println("El factorial de " + numero + " es: " + resultado);
