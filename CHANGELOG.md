@@ -1,4 +1,7 @@
-﻿## 03/02/2026 02:51:04
+﻿Actualizacion - 03/02/2026 02:51:24
+- Corregir errores
+
+## 03/02/2026 02:51:04
 - Refactorizar codigo para mejor legibilidad
 
 Actualizacion - 31/01/2026 20:33:45
@@ -9,6 +12,7 @@ Actualizacion - 31/01/2026 20:33:45
 
 Actualizacion - 22/01/2026 16:50:30
 - Mejorar documentacion
+
 
 
 
