@@ -1,4 +1,7 @@
-﻿Actualizacion - 05/02/2026 09:46:45
+﻿## 05/02/2026 09:47:02
+- Agregar ejemplos de uso
+
+Actualizacion - 05/02/2026 09:46:45
 - Refactorizar codigo
 
 Actualizacion - 03/02/2026 02:51:24
@@ -15,6 +18,7 @@ Actualizacion - 31/01/2026 20:33:45
 
 Actualizacion - 22/01/2026 16:50:30
 - Mejorar documentacion
+
 
 
 
